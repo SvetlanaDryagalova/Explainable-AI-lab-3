@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific files (если будут создаваться)
+*.log
+*.pth
+*.pt
+*.png
+*.jpg
+*.jpeg
+
+# Mac OS specific
+.DS_Store
+
+# Python cache
+*.pyc
+
+# Data folders (если фото большие)
+data/
+images/
+*.zip
+*.tar.gz
